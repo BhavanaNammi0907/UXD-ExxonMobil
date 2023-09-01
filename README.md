@@ -1,1 +1,3 @@
 # UXD-ExxonMobil
+
+A solution designed to address the problem given by the industry client ExxonMobil as the second project for the course CEN5728 - User Experience Design. The solution addresses the problem of not having a system to post kudos and aprreciations for their fellow colleagues. Also, they wnated to have a dedicated place within the same system where they can see all the events that were being organized and by whom. If they wish to participate then the employees can go ahead and register themselves or even post reviews, leaves likes, kudos to the past events that they were a part of.
